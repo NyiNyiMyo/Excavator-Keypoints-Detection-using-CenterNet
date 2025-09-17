@@ -1,5 +1,10 @@
 # Excavator Keypoints Detection using CenterNet
 
+[![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![pytorch](https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
+![Static Badge](https://img.shields.io/badge/Keypoints-Detection-cyan)
+![Static Badge](https://img.shields.io/badge/CenterNet-black)
+
 <img src="https://github.com/user-attachments/assets/75d920b6-9c4f-4bdf-965c-0beb845f221d" width="270">
 <img src="https://github.com/user-attachments/assets/f6ee2a50-45b1-4481-b9fd-e42d49aeb3fc" width="270">
 <img src="https://github.com/user-attachments/assets/9cea0efe-60b4-42a7-b948-5623d472a723" width="270">
